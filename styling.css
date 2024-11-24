@@ -39,7 +39,7 @@
 /*Style the navigation bar using a navbar css generator*/
 
 .navbar-custom {
-  font-size: 18px;
+  font-size: 15px;
   background-color: #1b3759;
   border-color: #132740;
   background-image: -webkit-gradient(linear, left 0%, left 100%, from(#274f80), to(#1b3759));
@@ -161,10 +161,10 @@
 
 #home{
  
- background: transparent;
+background: transparent;
 color: #FFF;
 text-align: center;
-padding-top: 10%;
+padding-top: 15%;
 border-radius: 10px;
 
 }
